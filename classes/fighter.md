@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 战士
-parent: classes
+parent: 职业
 nav_order: 4
 ---
 
