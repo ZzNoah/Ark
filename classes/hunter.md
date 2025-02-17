@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 猎人
-parent: classes
+parent: 职业
 nav_order: 6
 ---
 
