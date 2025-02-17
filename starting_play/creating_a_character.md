@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 创建角色
-parent: starting_play
+parent: 开始游戏
 nav_order: 3
 ---
 
