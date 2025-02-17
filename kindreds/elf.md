@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 精灵
-parent: kindreds
+parent: 种族
 nav_order: 3
 ---
 
