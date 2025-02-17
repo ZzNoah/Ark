@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 蝠木妖
-parent: kindreds
+parent: 种族
 nav_order: 7
 ---
 
