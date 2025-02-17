@@ -1,13 +1,13 @@
 ---
 layout: default
 title: 盗贼
-parent: classes
+parent: 职业
 nav_order: 9
 ---
 
 # 盗贼
 
-> Rogues who live by skills of deception and stealth.
+> 靠欺瞒和潜行技能谋生的游荡者。
 
 - **主要属性**	敏捷
 - **生命值**	每等级 1d4，10 级后 +1
