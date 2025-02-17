@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 游方艺人
-parent: classes
+parent: 职业
 nav_order: 1
 ---
 
