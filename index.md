@@ -1,6 +1,7 @@
 ---
-title: 版权声明
 layout: home
+title: 版权声明
+nav_order: 1
 ---
 
 # 版权声明
