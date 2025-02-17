@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 凡人、仙灵、半妖
-parent: kindreds
+parent: 种族
 nav_order: 1
 ---
 
