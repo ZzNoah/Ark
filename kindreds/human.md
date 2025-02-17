@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 人类
-parent: kindreds
+parent: 种族
 nav_order: 5
 ---
 
