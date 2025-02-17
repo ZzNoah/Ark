@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 牧师
-parent: classes
+parent: 职业
 nav_order: 2
 ---
 
