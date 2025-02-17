@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 等级进度
-parent: starting_play
+parent: 开始游戏
 nav_order: 6
 ---
 
