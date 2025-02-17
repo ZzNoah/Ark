@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 苔藓人
-parent: kindreds
+parent: 种族
 nav_order: 6
 ---
 
