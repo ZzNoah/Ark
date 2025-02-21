@@ -41,7 +41,7 @@ nav_order: 2
 | 5 | Drerdl | Fannigrew | Crewwin | Elbowgen |
 | 6 | Frennig | Frandorup | Curlip | Forlocke |
 | 7 | Grerg | Grendilore | Eleye | Hwodlow |
-| 8 | Gripe | Grendl | Ellip | 颀角镇 |
+| 8 | Gripe | Grendl | Ellip | Lankshorn |
 | 9 | Llerg | Grewigg | Frannidore | Lockehorn |
 | 10 | Llrod | Hildrup | Ghrend | Longbeard |
 | 11 | Lope | Hraigl | Grennigore | Longshanks |
