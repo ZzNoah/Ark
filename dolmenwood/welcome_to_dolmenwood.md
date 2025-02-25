@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 版权声明
-parent: 旅程伊始
+title: 旅程伊始
+parent: 石墓密林·在线规则参考
 nav_order: 1
 ---
 
