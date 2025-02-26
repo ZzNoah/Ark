@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: 阈限恐怖·调查员版
-nav_order: 100
+nav_order: 4
 nav_exclude: true
 search_exclude: true
 has_children: false
