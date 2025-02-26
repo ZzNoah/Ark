@@ -1,3 +1,79 @@
 @import "./color_schemes/dark";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC');
 
-$link-color: $red-000;
+body{
+  font-family: 'Noto Sans SC', serif;
+  font-feature-settings: "lnum"; /*Lining Figures for nicer fit with Chinese characters*/
+}
+
+tr:nth-child(even) td{
+  background-color: #5B5961; // 将表格的偶数行背景色设置为 grey-dk-100
+}
+
+th, td {
+  min-width: initial;
+  padding-top: .35rem;
+  padding-bottom: .35rem;
+  padding-right: .5rem;
+  padding-left: .5rem;
+}
+
+td {
+  border-bottom: 0;
+  border-left: 0;
+}
+
+thead{
+  display: none;
+}
+
+tbody tr:last-of-type td{
+  padding-bottom: .35rem;
+}
+
+h4, .text-delta{
+font-size: 16px !important;
+font-weight: 600;
+// text-transform: uppercase;
+}
+
+.nav-list .nav-list-item .nav-list-link {
+font-size: 1rem;
+}
+
+h1 {
+  color: LawnGreen;
+}
+
+h2 {
+  color: LimeGreen;
+}
+
+h3 {
+  color: Cyan;
+}
+
+h4 {
+  color: DeepSkyBlue;
+}
+
+strong {
+  color: OrangeRed;
+}
+
+em {
+  color: Aqua;
+}
+
+strong em {
+  color: Aqua;
+}
+
+em strong {
+  color: Aqua;
+}
+
+//a {
+//  color: green;
+// }
+// 不改链接颜色了。
