@@ -5,6 +5,9 @@ parent: 装备、服务、动物
 nav_order: 2
 ---
 
+🏗️施工中
+{: .label .label-yellow }
+
 # 护甲与武器
 
 > 兵械武装，用于抵御伺机而动的怪兽。
