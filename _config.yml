@@ -7,3 +7,10 @@ url: https://zznoah.github.io/mortfolio/
 color_scheme: foo
 nav_enabled: true #开导航侧边栏
 heading_anchors: true #开标题链接
+
+# 外部导航链接
+nav_external_links:
+  - title: 石冢 Cairn
+    url: https://cn.cairnrpg.com/
+    hide_icon: false
+    opens_in_new_tab: true
