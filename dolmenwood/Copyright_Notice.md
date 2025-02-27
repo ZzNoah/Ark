@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 版权声明
+title: 版权声明 Copyright Notice
 parent: 石墓密林·在线规则参考
 nav_order: 0
 ---
 
-# 版权声明
+# 版权声明 Copyright Notice
 
 本目录（[石墓密林·在线规则参考](https://zznoah.github.io/mortfolio/dolmenwood.html)）下包含的译文的版权归译者（[ZzNoah](https://zznoah.itch.io/)）所有，石墓密林（Dolmenwood）相关内容版权归 Necrotic Gnome 所有。  
 
