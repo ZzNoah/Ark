@@ -5,6 +5,9 @@ parent: 魔法
 nav_order: 4
 ---
 
+🏗️施工中
+{: .label .label-yellow }
+
 # 苔藓人妙法
 
 > 苔藓人奇特的半魔法技艺。
