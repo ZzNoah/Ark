@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 旅程伊始
-parent: 石墓密林·在线规则参考
+parent: 欢迎来到石墓密林
 nav_order: 1
 ---
 
