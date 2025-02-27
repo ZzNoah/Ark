@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 版权声明 Copyright Notice
+title: 版权声明
 parent: 石墓密林·在线规则参考
 nav_order: 0
 ---
