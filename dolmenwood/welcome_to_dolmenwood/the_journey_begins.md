@@ -9,7 +9,7 @@ nav_order: 1
 
 > 漫游者踏入诡异又迷幻的石墓密林的第一步。
 
-本站是通往石墓密林那迷幻国度的冒险门径——那里有大片宽阔的虬结森林、遍布真菌的林地以及位于文明分野的恶臭沼泽。石墓密林充斥着阴谋、秘密和魔法，吸引着充满冒险精神的旅者，挑战他们冒险涉足其中。
+本书是通往石墓密林那迷幻国度的冒险门径——那里有大片宽阔的虬结森林、遍布真菌的林地以及位于文明分野的恶臭沼泽。石墓密林充斥着阴谋、秘密和魔法，吸引着充满冒险精神的旅者，挑战他们冒险涉足其中。
 
 **探索荒野**，穿越荆棘山谷、真菌森林与诅咒泥沼，在伴随怪兽夜啼声的树根与蕨草之间安营扎寨。
 
@@ -32,3 +32,42 @@ nav_order: 1
 **仙路旅行**，古老魔法道路接壤了不朽仙境，往往穿梭石墓密林——偶尔前往世外国度。
 
 **回到家中炉旁**，喝着麦芽酒，抽着烟斗，跟古雅的本地人分享惊险的故事。
+
+---
+
+#### 灵感作品
+
+以下书籍、电影和电视剧启发了石墓密林的创作。推荐所有玩家拿来当作幻想素材。
+
+#### 书籍
+
+- *The Charwoman’s Shadow*—Lord Dunsany
+- *The Fellowship of the Ring (Book 1)*—J.R.R. Tolkien
+- *Goblin Market*—Christina Rossetti
+- *Gormenghast*—Mervyn Peake
+- *Jonathan Strange & Mr Norrell*—Susanna Clarke
+- *The King of Elfland’s Daughter*—Lord Dunsany
+- *Krabat*—Ottfried Preußler
+- *The Ladies of Grace Adieu*—Susanna Clarke
+- *Lud-in-the-Mist*—Hope Mirrlees
+- Lyonesse trilogy—Jack Vance
+- *Mio My Son*—Astrid Lindgren
+- *On Fairy-Stories*—J.R.R. Tolkien
+- *Smith of Wootton Major*—J.R.R. Tolkien
+- *Stardust*—Neil Gaiman
+- *The White People*—Arthur Machen
+
+#### 电影
+
+- *The Green Knight*—David Lowery
+- *Labyrinth*—Jim Henson
+- *Legend*—Ridley Scott
+- *Princess Mononoke*—Hayao Miyazaki
+- *Spirited Away*—Hayao Miyazaki
+- *The Wicker Man*—Robin Hardy
+
+#### 电视剧
+
+- *Jonathan Strange & Mr Norrell*—BBC series
+- *Over the Garden Wall*—Patrick McHale
+- *Twin Peaks*—Mark Frost and David Lynch
