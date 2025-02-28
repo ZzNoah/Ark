@@ -6,7 +6,7 @@ nav_order: 10
 ---
 
 🏗️施工中
-{: .label .label-yellow }
+{: .label .label-red }
 
 # 仆役
 
