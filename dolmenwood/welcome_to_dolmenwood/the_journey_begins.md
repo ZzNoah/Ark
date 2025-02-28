@@ -41,33 +41,33 @@ nav_order: 1
 
 #### 书籍
 
-- *The Charwoman’s Shadow*—Lord Dunsany
-- *The Fellowship of the Ring (Book 1)*—J.R.R. Tolkien
-- *Goblin Market*—Christina Rossetti
-- *Gormenghast*—Mervyn Peake
-- *Jonathan Strange & Mr Norrell*—Susanna Clarke
-- *The King of Elfland’s Daughter*—Lord Dunsany
-- *Krabat*—Ottfried Preußler
-- *The Ladies of Grace Adieu*—Susanna Clarke
-- *Lud-in-the-Mist*—Hope Mirrlees
-- Lyonesse trilogy—Jack Vance
-- *Mio My Son*—Astrid Lindgren
-- *On Fairy-Stories*—J.R.R. Tolkien
-- *Smith of Wootton Major*—J.R.R. Tolkien
-- *Stardust*—Neil Gaiman
-- *The White People*—Arthur Machen
+- 《The Charwoman’s Shadow》—Lord Dunsany
+- 《The Fellowship of the Ring (Book 1)》—J.R.R. Tolkien
+- 《Goblin Market》—Christina Rossetti
+- 《Gormenghast》—Mervyn Peake
+- 《Jonathan Strange & Mr Norrell》—Susanna Clarke
+- 《The King of Elfland’s Daughter》—Lord Dunsany
+- 《Krabat》—Ottfried Preußler
+- 《The Ladies of Grace Adieu》—Susanna Clarke
+- 《Lud-in-the-Mist》—Hope Mirrlees
+- 《Lyonesse》三部曲—Jack Vance
+- 《Mio My Son》—Astrid Lindgren
+- 《On Fairy-Stories》—J.R.R. Tolkien
+- 《Smith of Wootton Major》—J.R.R. Tolkien
+- 《Stardust》—Neil Gaiman
+- 《The White People》—Arthur Machen
 
 #### 电影
 
-- *The Green Knight*—David Lowery
-- *Labyrinth*—Jim Henson
-- *Legend*—Ridley Scott
-- *Princess Mononoke*—Hayao Miyazaki
-- *Spirited Away*—Hayao Miyazaki
-- *The Wicker Man*—Robin Hardy
+- 《The Green Knight》—David Lowery
+- 《Labyrinth》—Jim Henson
+- 《Legend》—Ridley Scott
+- 《Princess Mononoke》—Hayao Miyazaki
+- 《Spirited Away》—Hayao Miyazaki
+- 《The Wicker Man》—Robin Hardy
 
 #### 电视剧
 
-- *Jonathan Strange & Mr Norrell*—BBC series
-- *Over the Garden Wall*—Patrick McHale
-- *Twin Peaks*—Mark Frost and David Lynch
+- 《Jonathan Strange & Mr Norrell》—BBC series
+- 《Over the Garden Wall》—Patrick McHale
+- 《Twin Peaks》—Mark Frost and David Lynch
