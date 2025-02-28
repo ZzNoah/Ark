@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 🏗️施工中
-{: .label .label-yellow }
+{: .label .label-red }
 
 # 仙灵魔法
 
