@@ -6,7 +6,7 @@ nav_order: 9
 ---
 
 🏗️施工中
-{: .label .label-yellow }
+{: .label .label-red }
 
 # 专员服务
 
