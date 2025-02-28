@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 🏗️施工中
-{: .label .label-yellow }
+{: .label .label-red }
 
 # 冒险用品
 
