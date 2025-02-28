@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 🏗️施工中
-{: .label .label-yellow }
+{: .label .label-red }
 
 # 住宿与食物
 
