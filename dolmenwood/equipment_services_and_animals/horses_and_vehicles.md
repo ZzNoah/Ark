@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 🏗️施工中
-{: .label .label-yellow }
+{: .label .label-red }
 
 # 马匹与载具
 
