@@ -13,7 +13,7 @@ nav_order: 0
 
 译者对此声明保留最终解释权。  
 
-**资料来源：**本站内容均摘自 <https://necroticgnome.com> 的免费内容，包括「在线规则参考」和《[欢迎来到石墓密林](https://necroticgnome.com/products/welcome-to-dolmenwood Welcome to Dolmenwood预览书)》。  
+**资料来源：**本站内容均摘自 <https://necroticgnome.com> 的免费内容，包括「在线规则参考」《[欢迎来到石墓密林](https://necroticgnome.com/products/welcome-to-dolmenwood Welcome to Dolmenwood) v2.2》《Dolmenwood Game Preview v1.0》。  
 
 **仅含规则：**请注意，本站仅提供核心规则参考。本站不包含《*石墓密林·玩家书*》全本中的世设细节、介绍材料、附录和风味元素。完整《石墓密林》TRPG 三卷套装的印刷版和 PDF 版可从 <https://dolmenwood.com> 获取。  
 
