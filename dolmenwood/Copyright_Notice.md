@@ -17,7 +17,7 @@ nav_order: 0
 
 本站包含玩家在神奇迷幻的石墓密林中体验奇妙旅程与危殆冒险而所需的必要规则。这引导了玩家踏入森林那晦暗屋檐下的第一步，是玩家深入探索秘密的可靠伴侣。
 
-**资料来源：**本站内容均摘自 <https://necroticgnome.com> 的免费内容，包括「在线规则参考」《[欢迎来到石墓密林](https://necroticgnome.com/products/welcome-to-dolmenwood Welcome to Dolmenwood) v2.2》《Dolmenwood Game Preview v1.0》。  
+**资料来源：**本站内容均摘自 <https://necroticgnome.com> 的免费内容，包括但不限于《在线规则参考》《Dolmenwood Game Preview v1.0》《[欢迎来到石墓密林](https://necroticgnome.com/products/welcome-to-dolmenwood Welcome to Dolmenwood) v2.2》《[石墓密林日历](https://necroticgnome.com/products/dolmenwood-calendar) v3.2》。  
 
 **仅含规则：**请注意，本站仅提供核心规则参考。本站不包含《*石墓密林·玩家书*》全本中的世设细节、介绍材料、附录和风味元素。完整《石墓密林》TRPG 三卷套装的印刷版和 PDF 版可从 <https://dolmenwood.com> 获取。  
 
