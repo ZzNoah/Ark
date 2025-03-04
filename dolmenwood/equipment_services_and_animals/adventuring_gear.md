@@ -5,9 +5,6 @@ parent: 装备、服务、动物
 nav_order: 1
 ---
 
-🏗️施工中
-{: .label .label-red }
-
 # 冒险用品
 
 > 冒险者和流浪者的日常百货。
