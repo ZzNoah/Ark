@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 恶棍 Knave
-nav_order: 4
+nav_order: 6
 #nav_exclude: true
 #search_exclude: true
 has_children: false
@@ -9,7 +9,7 @@ has_children: false
 
 # 恶棍 Knave
 
-<iframe frameborder="0" src="https://itch.io/embed/2430306?dark=true" width="552" height="167"><a href="https://zznoah.itch.io/knave-chs">恶棍（Knave）中文版 by ZzNoah, Qi（niangao）</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2430306?dark=true" width="552" height="167"><a href="https://zznoah.itch.io/knave-chs">恶棍 by ZzNoah</a></iframe>
 
 《恶棍》（Knave）是 Ben Milton 创作的规则工具集，旨在运行无职业老派角色扮演游戏。在此欢迎并鼓励大家对规则进行增补、削减和修改。《恶棍》特点如下：
 
