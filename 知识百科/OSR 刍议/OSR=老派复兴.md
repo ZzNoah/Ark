@@ -8,9 +8,6 @@ nav_order: 1
 #has_children: true
 ---
 
-🏗️施工中
-{: .label .label-red }
-
 # OSR=老派复兴
 
 > 老派复兴（OSR）是一场理念运动，也是商店常见的作品分类标签。
