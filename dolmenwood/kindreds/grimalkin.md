@@ -40,28 +40,28 @@ nav_order: 4
 
 ### 猫妖姓名
 
-| d20 | 名字 | 姓氏 |
+| **d20** | **名字** | **姓氏** |
 | :--- | :-------------- | :------------ |
-| 1 | Boots | Bobblewhisk |
-| 2 | Fripple | Cottonsocks |
-| 3 | Ginger | Flip-a-tail |
-| 4 | Jack/Jill | Flippancy |
-| 5 | Jaspy | Fluff-a-kin |
-| 6 | Jasqueline | Grimalgrime |
-| 7 | Kitty | Grinser |
-| 8 | Little | Lickling |
-| 9 | Lord/Lady | Milktongue |
-| 10 | Mogget | Mogglin |
-| 11 | Moggle | Poppletail |
-| 12 | Monsieur/Madame | Pouncemouse |
-| 13 | Nibbles | Pusskin |
-| 14 | Penny | Ratbane |
-| 15 | Poppet | Snuffle |
-| 16 | Prince/Princess | Tailwhisk |
-| 17 | Prissy | Tippler |
-| 18 | Tippsy | Whippletongue |
-| 19 | Tomkin | Whipsy |
-| 20 | Toppsy | Whiskers |
+| **1** | Boots | Bobblewhisk |
+| **2** | Fripple | Cottonsocks |
+| **3** | Ginger | Flip-a-tail |
+| **4** | Jack/Jill | Flippancy |
+| **5** | Jaspy | Fluff-a-kin |
+| **6** | Jasqueline | Grimalgrime |
+| **7** | Kitty | Grinser |
+| **8** | Little | Lickling |
+| **9** | Lord/Lady | Milktongue |
+| **10** | Mogget | Mogglin |
+| **11** | Moggle | Poppletail |
+| **12** | Monsieur/Madame | Pouncemouse |
+| **13** | Nibbles | Pusskin |
+| **14** | Penny | Ratbane |
+| **15** | Poppet | Snuffle |
+| **16** | Prince/Princess | Tailwhisk |
+| **17** | Prissy | Tippler |
+| **18** | Tippsy | Whippletongue |
+| **19** | Tomkin | Whipsy |
+| **20** | Toppsy | Whiskers |
 
 ## 选择职业
 
