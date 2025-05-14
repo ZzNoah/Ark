@@ -30,28 +30,28 @@ nav_order: 3
 
 ### 精灵姓名
 
-| d20 | 乡野 | 宫廷 |
+| **d20** | **乡野** | **宫廷** |
 | :--- | :---------------------- | :----------------------- |
-| 1 | Bucket-and-Broth | Begets-Only-Dreams |
-| 2 | Candle-Bent-Sidewise | Breath-Upon-Candlelight |
-| 3 | Glance-Askew-Guillem | Chalice-of-Duskviolet |
-| 4 | Jack-of-Many-Colours | Dream-of-Remembrance |
-| 5 | Lace-and-Polkadot | Gleanings-of-Lost-Days |
-| 6 | Lament-of-Bones-Broken | Hands-Bound-By-Crows |
-| 7 | Lightly-Come-Softly | Impudence-Hath-Victory |
-| 8 | Lillies-o’er-Heartsight | Indigo-and-Patchwork |
-| 9 | Prick-of-the-Nail | Marry-No-Man |
-| 10 | Silver-and-Quicksilver | Morning’s-Last-Mists |
-| 11 | Spring-to-the-Queen | Murder-of-Ravens |
-| 12 | Sprue-Upon-Gallows | Quavering-of-Night |
-| 13 | Sun’s-Turning-Tide | Revenge’s-Sweet-Scent |
-| 14 | Supper-Before-Noon | Seven-Steps-At-Dawn |
-| 15 | Too-Soon-Begotten | Shade-of-Winter-Betrayal |
-| 16 | Trick-of-the-Light | Shallow-Pained-Plight |
-| 17 | Tryst-about-Town | Shallow-Spirit’s-Lament |
-| 18 | Tumble-and-Thimble | Slips-Behind-Shadows |
-| 19 | Wine-By-The-Goblet | Spring-Noon’s-Arrogance |
-| 20 | Youth-Turned-Curdled | Violet-and-Clementine |
+| **1** | Bucket-and-Broth | Begets-Only-Dreams |
+| **2** | Candle-Bent-Sidewise | Breath-Upon-Candlelight |
+| **3** | Glance-Askew-Guillem | Chalice-of-Duskviolet |
+| **4** | Jack-of-Many-Colours | Dream-of-Remembrance |
+| **5** | Lace-and-Polkadot | Gleanings-of-Lost-Days |
+| **6** | Lament-of-Bones-Broken | Hands-Bound-By-Crows |
+| **7** | Lightly-Come-Softly | Impudence-Hath-Victory |
+| **8** | Lillies-o’er-Heartsight | Indigo-and-Patchwork |
+| **9** | Prick-of-the-Nail | Marry-No-Man |
+| **10** | Silver-and-Quicksilver | Morning’s-Last-Mists |
+| **11** | Spring-to-the-Queen | Murder-of-Ravens |
+| **12** | Sprue-Upon-Gallows | Quavering-of-Night |
+| **13** | Sun’s-Turning-Tide | Revenge’s-Sweet-Scent |
+| **14** | Supper-Before-Noon | Seven-Steps-At-Dawn |
+| **15** | Too-Soon-Begotten | Shade-of-Winter-Betrayal |
+| **16** | Trick-of-the-Light | Shallow-Pained-Plight |
+| **17** | Tryst-about-Town | Shallow-Spirit’s-Lament |
+| **18** | Tumble-and-Thimble | Slips-Behind-Shadows |
+| **19** | Wine-By-The-Goblet | Spring-Noon’s-Arrogance |
+| **20** | Youth-Turned-Curdled | Violet-and-Clementine |
 
 ## 选择职业
 
