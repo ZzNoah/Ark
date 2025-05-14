@@ -28,28 +28,28 @@ nav_order: 6
 
 ### 苔藓人姓名
 
-| d20 | 男性 | 女性 | 中性 | 姓氏 |
+| **d20** | **男性** | **女性** | **中性** | **姓氏** |
 | :--- | :-------- | :------- | :-------- | :---------- |
-| 1 | Dombo | Bilibom | Bendiom | Barkhop |
-| 2 | Gobd | Brimbul | Blobul | Conker |
-| 3 | Gobulom | Ebbli | Ebdwol | Danklow |
-| 4 | Golobd | Ghibli | Glob | Fernhead |
-| 5 | Gremo | Gobbli | Gombly | Frother |
-| 6 | Gwomotom | Gwedim | Greblim | Grimehump |
-| 7 | Hollogowl | Higwold | Gwoodwom | Hogscap |
-| 8 | Kabob | Ibulold | Hollb | Mossbeard |
-| 9 | Kollobom | Imbwi | Klolb | Mossfurrow |
-| 10 | Limbly | Klibli | Kwolotomb | Mould |
-| 11 | Loblow | Klimbim | Lambop | Mouldfinger |
-| 12 | Mobdemold | Libib | Morromb | Mudfoot |
-| 13 | Nyoma | Limimb | Mwoomb | Mugfoam |
-| 14 | Obolm | Marib | Olob | Mulchwump |
-| 15 | Oglom | Milik | Oobl | Mushrump |
-| 16 | Omb | Shlirimi | Shlurbel | Oddpolyp |
-| 17 | Shmold | Shobd | Smodron | Puffhelm |
-| 18 | Slumbred | Skimbim | Tomdown | Smallcheese |
-| 19 | Umbertop | Slimpk | Tomumbolo | Sodwallow |
-| 20 | Wobobold | Smodri | Worrib | Twiggler |
+| **1** | Dombo | Bilibom | Bendiom | Barkhop |
+| **2** | Gobd | Brimbul | Blobul | Conker |
+| **3** | Gobulom | Ebbli | Ebdwol | Danklow |
+| **4** | Golobd | Ghibli | Glob | Fernhead |
+| **5** | Gremo | Gobbli | Gombly | Frother |
+| **6** | Gwomotom | Gwedim | Greblim | Grimehump |
+| **7** | Hollogowl | Higwold | Gwoodwom | Hogscap |
+| **8** | Kabob | Ibulold | Hollb | Mossbeard |
+| **9** | Kollobom | Imbwi | Klolb | Mossfurrow |
+| **10** | Limbly | Klibli | Kwolotomb | Mould |
+| **11** | Loblow | Klimbim | Lambop | Mouldfinger |
+| **12** | Mobdemold | Libib | Morromb | Mudfoot |
+| **13** | Nyoma | Limimb | Mwoomb | Mugfoam |
+| **14** | Obolm | Marib | Olob | Mulchwump |
+| **15** | Oglom | Milik | Oobl | Mushrump |
+| **16** | Omb | Shlirimi | Shlurbel | Oddpolyp |
+| **17** | Shmold | Shobd | Smodron | Puffhelm |
+| **18** | Slumbred | Skimbim | Tomdown | Smallcheese |
+| **19** | Umbertop | Slimpk | Tomumbolo | Sodwallow |
+| **20** | Wobobold | Smodri | Worrib | Twiggler |
 
 ## 选择职业
 
@@ -79,25 +79,25 @@ nav_order: 6
 
 ### 共生肉躯
 
-| d20 | 感染 |
+| **d20** | **感染** |
 | :--- | :----------------------------------------------- |
-| 1 | 耳廓被果冻真菌取代。 |
-| 2 | 地衣斑驳。 |
-| 3 | 纤巧花朵每逢春日在胡须上绽放。 |
-| 4 | 潮湿部位感染酵母菌。 |
-| 5 | 关节处长出毒伞菌。 |
-| 6 | 覆着黏糊绿果冻。 |
-| 7 | 耳里长出微型树木。 |
-| 8 | 皮肤布满菌丝。 |
-| 9 | 眼睛覆满透明黄霉菌。 |
-| 10 | 可食脚趾奶酪。 |
-| 11 | 腋窝长出木架状真菌。 |
-| 12 | 苔藓脚。 |
-| 13 | 爬藤缠绕四肢和躯干。 |
-| 14 | 腹股沟周遭长出根茎蕨类。 |
-| 15 | 苔藓肱二头肌。 |
-| 16 | 臀部和膝盖周遭长出尘球菌。 |
-| 17 | 欧芹胸毛。 |
-| 18 | 黑莓荆棘缠绕毛发。 |
-| 19 | 毛发中长出可食蘑菇 |
-| 20 | 头顶长出半智能蘑菇。 |
+| **1** | 耳廓被果冻真菌取代。 |
+| **2** | 地衣斑驳。 |
+| **3** | 纤巧花朵每逢春日在胡须上绽放。 |
+| **4** | 潮湿部位感染酵母菌。 |
+| **5** | 关节处长出毒伞菌。 |
+| **6** | 覆着黏糊绿果冻。 |
+| **7** | 耳里长出微型树木。 |
+| **8** | 皮肤布满菌丝。 |
+| **9** | 眼睛覆满透明黄霉菌。 |
+| **10** | 可食脚趾奶酪。 |
+| **11** | 腋窝长出木架状真菌。 |
+| **12** | 苔藓脚。 |
+| **13** | 爬藤缠绕四肢和躯干。 |
+| **14** | 腹股沟周遭长出根茎蕨类。 |
+| **15** | 苔藓肱二头肌。 |
+| **16** | 臀部和膝盖周遭长出尘球菌。 |
+| **17** | 欧芹胸毛。 |
+| **18** | 黑莓荆棘缠绕毛发。 |
+| **19** | 毛发中长出可食蘑菇 |
+| **20** | 头顶长出半智能蘑菇。 |
