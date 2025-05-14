@@ -32,28 +32,28 @@ nav_order: 2
 
 ### 山羊人姓名
 
-| d20 | 男性 | 女性 | 中性 | 姓氏 |
+| **d20** | **男性** | **女性** | **中性** | **姓氏** |
 | :--- | :-------- | :--------- | :--------- | :----------- |
-| 1 | Aele | Aedel | Addle | Blathergripe |
-| 2 | Braembel | Berrild | Andred | Bluegouge |
-| 3 | Broob | Bredhr | Blocke | Bockbrugh |
-| 4 | Crump | Draed | Clover | Bockstump |
-| 5 | Drerdl | Fannigrew | Crewwin | Elbowgen |
-| 6 | Frennig | Frandorup | Curlip | Forlocke |
-| 7 | Grerg | Grendilore | Eleye | Hwodlow |
-| 8 | Gripe | Grendl | Ellip | Lankshorn |
-| 9 | Llerg | Grewigg | Frannidore | Lockehorn |
-| 10 | Llrod | Hildrup | Ghrend | Longbeard |
-| 11 | Lope | Hraigl | Grennigore | Longshanks |
-| 12 | Mashker | Hwendl | Gwendl | Shankwold |
-| 13 | Olledg | Maybel | Hrannick | Smallbuck |
-| 14 | Rheg | Myrkle | Hwoldrup | Snicklebock |
-| 15 | Shadgore | Nannigrew | Lindor | Snidebleat |
-| 16 | Shadwell | Pettigrew | Merrild | Snoode |
-| 17 | Shadwicke | Rrhimbr | Smenthard | Underbleat |
-| 18 | Shandor | Shord | Snerg | Underbuck |
-| 19 | Shank | Smethra | Wendlow | Wolder |
-| 20 | Snerd | Wheld | Windor | Woldleap |
+| **1** | Aele | Aedel | Addle | Blathergripe |
+| **2** | Braembel | Berrild | Andred | Bluegouge |
+| **3** | Broob | Bredhr | Blocke | Bockbrugh |
+| **4** | Crump | Draed | Clover | Bockstump |
+| **5** | Drerdl | Fannigrew | Crewwin | Elbowgen |
+| **6** | Frennig | Frandorup | Curlip | Forlocke |
+| **7** | Grerg | Grendilore | Eleye | Hwodlow |
+| **8** | Gripe | Grendl | Ellip | Lankshorn |
+| **9** | Llerg | Grewigg | Frannidore | Lockehorn |
+| **10** | Llrod | Hildrup | Ghrend | Longbeard |
+| **11** | Lope | Hraigl | Grennigore | Longshanks |
+| **12** | Mashker | Hwendl | Gwendl | Shankwold |
+| **13** | Olledg | Maybel | Hrannick | Smallbuck |
+| **14** | Rheg | Myrkle | Hwoldrup | Snicklebock |
+| **15** | Shadgore | Nannigrew | Lindor | Snidebleat |
+| **16** | Shadwell | Pettigrew | Merrild | Snoode |
+| **17** | Shadwicke | Rrhimbr | Smenthard | Underbleat |
+| **18** | Shandor | Shord | Snerg | Underbuck |
+| **19** | Shank | Smethra | Wendlow | Wolder |
+| **20** | Snerd | Wheld | Windor | Woldleap |
 
 ## 选择职业
 
@@ -91,7 +91,7 @@ nav_order: 2
 
 ## 山羊人等级进度
 
-|           | 犄角 | 犄角 |          |
+|           | **犄角** | **犄角** |          |
 | :-------- | :--------- | :--------- | :------- |
 | **等级** | **长度** | **伤害** | **凝视** |
 | **1** | 1" | 1d4 | – |
