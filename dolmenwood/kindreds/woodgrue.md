@@ -26,28 +26,28 @@ nav_order: 7
 
 ### 蝠木妖姓名
 
-| d20 | 男性 | 女性 | 中性 | 姓氏 |
+| **d20** | **男性** | **女性** | **中性** | **姓氏** |
 | :--- | :--------- | :---------- | :--------- | :---------- |
-| 1 | Bagnack | Bishga | Bogfrink | Bobbleslime |
-| 2 | Barmcudgel | Canaghoop | Bongwretch | Bogbabble |
-| 3 | Bloomfext | Cheruffue | Chunder | Bootswap |
-| 4 | Bunglebone | Doola | Danklob | Chumley |
-| 5 | Capratt | Frogfyrr | Frondbong | Cobwallop |
-| 6 | Chimm | Gruecalle | Gobblebag | Drooglight |
-| 7 | Delgodand | Hoolbootes | Hootbra | Dungobble |
-| 8 | Drunker | Maulspoorer | Longsnipe | Eggmumble |
-| 9 | Eortban | Mogsmote | Lumpfrisk | Hogslapper |
-| 10 | Grunkle | Molemoch | Mabmungle | Hortleswoop |
-| 11 | Gubber | Moonmilk | Mungus | Hungerslip |
-| 12 | Gumroot | Munmun | Obblehob | Lankwobble |
-| 13 | Gunkuss | Nettaclare | Oddler | Moorsnob |
-| 14 | Kungus | Oorcha | Oodler | Mundersnog |
-| 15 | Longtittle | Palliepalm | Pipplepoke | Pencecrump |
-| 16 | Lubbal | Pimplepook | Slovend | Persnickle |
-| 17 | Olpipes | Puggump | Umple | Shunderbog |
-| 18 | Runkelgate | Rolliepolk | Unclord | Snodgrass |
-| 19 | Weepooze | Sasserpipe | Undermap | Wallerbog |
-| 20 | Wumpus | Whipsee | Whoopla | Woodfuffle |
+| **1** | Bagnack | Bishga | Bogfrink | Bobbleslime |
+| **2** | Barmcudgel | Canaghoop | Bongwretch | Bogbabble |
+| **3** | Bloomfext | Cheruffue | Chunder | Bootswap |
+| **4** | Bunglebone | Doola | Danklob | Chumley |
+| **5** | Capratt | Frogfyrr | Frondbong | Cobwallop |
+| **6** | Chimm | Gruecalle | Gobblebag | Drooglight |
+| **7** | Delgodand | Hoolbootes | Hootbra | Dungobble |
+| **8** | Drunker | Maulspoorer | Longsnipe | Eggmumble |
+| **9** | Eortban | Mogsmote | Lumpfrisk | Hogslapper |
+| **10** | Grunkle | Molemoch | Mabmungle | Hortleswoop |
+| **11** | Gubber | Moonmilk | Mungus | Hungerslip |
+| **12** | Gumroot | Munmun | Obblehob | Lankwobble |
+| **13** | Gunkuss | Nettaclare | Oddler | Moorsnob |
+| **14** | Kungus | Oorcha | Oodler | Mundersnog |
+| **15** | Longtittle | Palliepalm | Pipplepoke | Pencecrump |
+| **16** | Lubbal | Pimplepook | Slovend | Persnickle |
+| **17** | Olpipes | Puggump | Umple | Shunderbog |
+| **18** | Runkelgate | Rolliepolk | Unclord | Snodgrass |
+| **19** | Weepooze | Sasserpipe | Undermap | Wallerbog |
+| **20** | Wumpus | Whipsee | Whoopla | Woodfuffle |
 
 ## 选择职业
 
