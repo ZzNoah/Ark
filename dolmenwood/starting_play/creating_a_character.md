@@ -9,7 +9,7 @@ nav_order: 3
 
 > 如何创建一名见习冒险者，准备勇闯石墓密林。
 
-创建角色时，你需要一张角色表——如图所示。石墓密林角色卡可在 [https://dolmenwood.com](https://dolmenwood.com/) 下载 PDF 版。
+创建角色时，你需要一张角色卡——如图所示。石墓密林角色卡可在 [https://dolmenwood.com](https://dolmenwood.com/) 下载 PDF 版。
 
 **随机性说明：**许多角色数据由投骰决定。我们鼓励你品味这些随机流程涌现出的角色概念的新鲜趣味。
 
