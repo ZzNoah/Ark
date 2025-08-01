@@ -22,3 +22,7 @@ nav_external_links:
     url: https://cn.cairnrpg.com/
     hide_icon: false
     opens_in_new_tab: true
+  - title: 最棒论坛：b02
+    url: https://b02.zulipchat.com/
+    hide_icon: false
+    opens_in_new_tab: true
